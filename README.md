@@ -42,7 +42,7 @@ Data manipulation involves transforming the raw data into a format suitable for 
 ## Analysis and Visualizations
 
 ### Race Length Participation
-![Race_length][def]
+![Race_length](<assets\Race_Length.png>)
 
 
 Description: 
@@ -89,9 +89,3 @@ This project utilized the following tools and libraries:
  - Jupyter Notebook: For interactive coding and visualization
 
 
-
-[def]: assets\Race_Length.png
-[def2]: assets\Gender.png
-[def3]: assets\Speed.png
-[def4]: assets\Gender_and_Speed.png
-[def5]: assets\Age_vs_speed.png
