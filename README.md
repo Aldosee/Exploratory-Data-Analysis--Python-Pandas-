@@ -10,7 +10,7 @@ This project analyzes data from ultra marathon races to uncover insights into pa
  - [Python Script](analysis.ipynb)
  - Data Cleansing
  - Data Manipulation
- - Data Analysis and Visualizations
+ - Data Analysis and Visualization
     - Race Length Participation
     - Gender Distribution
     - Average Speed Distribution
