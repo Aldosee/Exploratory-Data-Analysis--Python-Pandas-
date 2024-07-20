@@ -42,7 +42,7 @@ Data manipulation involves transforming the raw data into a format suitable for 
 ## Analysis and Visualizations
 
 ### Race Length Participation
-![Race_length](<assets\Race_Length.png>)
+![Race_length](assets/Race_Length.png)
 
 
 Description: 
@@ -51,7 +51,7 @@ Description:
  - This suggests that more runners participate in 50km ultra marathon races compared to 50mi races possibly due to the shorter distance being more accessible or less intimidating for runners.
 
 ### Gender Distribution
-![Gender][def2]
+![Gender](assets/Gender.png)
    
 Description: 
  - 50km Races: The total number of participants is around 14,000. A majority of the participants are male (M), represented by the blue portion of the bar with roughly 8,000 participants. The remaining participants are female (F), represented by the gray portion with around 6,000 participants.
@@ -61,19 +61,19 @@ Description:
  - In both race lengths, male participants outnumber female participants. However, the overall trend of higher participation in 50km races compared to 50mi races is consistent across both genders. The 50km races attract more runners both male and female compared to the longer 50mi races.
 
 ### Average Speed Distribution
-![Speed][def3]
+![Speed](assets/Speed.png)
    
 Description: 
   - The histogram shows the distribution of athletes' average speeds in ultra marathon races with most athletes having an average speed between 5 and 8 units peaking around 6-7 units and fewer athletes achieving speeds outside this range.
 
 ### Age vs. Speed Analysis
-![Gender&Speed][def4]
+![Gender&Speed](assets/Gender_and_Speed.png)
     
 Description: 
- - The violin plot compares the distribution of average   speeds between male and female athletes in 50km and 50mi ultra marathon races. Both race lengths show that male (blue) and female (orange) athletes have similar median speeds with males having a slightly wider distribution of speeds. The plots also reveal that the distribution of speeds for both genders is more spread out in the 50km races compared to the 50mi races suggesting more variability in speeds for the shorter distance race.
+ - The violin plot compares the distribution of average speeds between male and female athletes in 50km and 50mi ultra marathon races. Both race lengths show that male (blue) and female (orange) athletes have similar median speeds with males having a slightly wider distribution of speeds. The plots also reveal that the distribution of speeds for both genders is more spread out in the 50km races compared to the 50mi races suggesting more variability in speeds for the shorter distance race.
 
 ### Gender and Speed Analysis
-![Age_vs_speed][def5]
+![Age_vs_speed](assets/Age_vs_Speed.png)
     
 Description: 
  - The scatter plot depicts the relationship between athletes' ages and their average speeds in ultra marathon races with data points colored by gender (blue for males and orange for females). Both genders show a slight negative correlation between age and average speed indicating that as age increases the average speed tends to decrease. The plot also shows that while male runners are generally spread across a wider range of speeds while female runners tend to have a more concentrated distribution of average speeds.
